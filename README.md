@@ -83,31 +83,8 @@ The full write-up, with a metric to track for each action, is in [`docs/Uber_Rid
 ## Tech stack
 
 - **Microsoft Power BI Desktop**
-- Dataset: *[add dataset name and link]*
+- Dataset: *Uber Data Analytics Dashboard, https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard*
 
-## Repository structure
-
-```
-.
-├── Uber_Ride_Dashboard.pbix        # Power BI report file
-├── images/                         # Dashboard screenshots
-├── docs/
-│   └── Uber_Ride_Dashboard_Project_Documentation.docx
-└── README.md
-```
-
-## How to open the dashboard
-
-1. Download or clone this repository.
-2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-3. Open `Uber_Ride_Dashboard.pbix` and use the date slider and page buttons to explore.
-
-## Possible improvements
-
-- Add completion rate and cancellation rate cards to the Revenues page.
-- Widen the pickup places chart so long names are not truncated.
-- Add hover tooltips and a clear filters button.
-- Publish to the Power BI Service and link the live report here.
 
 ## Author
 

@@ -78,8 +78,6 @@ It answers four practical questions:
 - Coach low-rated drivers and recognise top-rated ones.
 - Handle failed payments cleanly and refund incomplete rides automatically.
 
-The full write-up, with a metric to track for each action, is in [`docs/Uber_Ride_Dashboard_Project_Documentation.docx`](docs/Uber_Ride_Dashboard_Project_Documentation.docx).
-
 ## Tech stack
 
 - **Microsoft Power BI Desktop**
